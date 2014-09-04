@@ -6,6 +6,12 @@ This project is a sass practice.
 
 [Markdown Reference](http://daringfireball.net/projects/markdown/syntax)
 
+## Start from scratch ##
+
+sass main.scss // creates a map and a css.
+
+sass --watch . // listen to changes from the console
+
 ## Working with Sass Libraries ##
 
 ### UI Frameworks ###

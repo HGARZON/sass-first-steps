@@ -1,6 +1,6 @@
-# CHICO UI THEMES #
+# SASS FIRST STEPS #
 
-This will be an awesome project.
+This project is a sass practice.
 
 ---
 
